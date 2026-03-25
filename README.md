@@ -52,7 +52,7 @@ I follow disciplined Git practices for maintainable codebases:
 
 ## 🔭 Current Focus
 - 🔍 **Actively seeking** Analyst Programmer opportunities in Hong Kong
-- 📚 **Learning** AI programming and Japanese
+- 📚 **Currently studying** Rust, AI programming, and Japanese; passed JLPT N1
 - 🌱 **Developing** leadership and mentoring skills
 - 💡 **Open to** full-time opportunities with immediate availability
 
