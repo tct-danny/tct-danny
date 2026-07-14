@@ -27,6 +27,23 @@ Currently seeking new opportunities as a **Senior Programmer** where I can contr
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+## 🛠️ Featured Project
+
+### Smart Fleet and Logistics Platform (SFLP)
+An operations platform for fleet management, job dispatch, map routing, and driver telemetry.
+
+**Stack:** Java 21 · Spring Boot · React + TypeScript · PostgreSQL · Kafka
+
+**Highlights:**
+- Role-based access for Admin, Dispatcher, Driver, and Ops
+- End-to-end job lifecycle with map routing and live telemetry
+
+![SFLP Admin Console](./demo_01/capture/02_admin_home.png)
+
+**Explore:**
+- [Architecture Overview](./demo_01/architecture.md)
+- [Demo Walkthrough](./demo_01/demo-capture.md)
+
 ## 🎯 My Coding Philosophy
 
 ### **Clean Code Principles**
